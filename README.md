@@ -1,4 +1,6 @@
 # fastlane docs
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fazadbotan%2Fdocs.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fazadbotan%2Fdocs?ref=badge_shield)
+
 
 This repo contains all documentation for fastlane. You can find the `.md` files inside the [docs](docs) folder.
 
@@ -60,3 +62,7 @@ to Gemfile and Gemfile.lock, respectively.
 `requirements-to-freeze.txt` lets you pick out the top level packages the
 project depends on, while `requirements.txt` exactly specifies all of the
 dependencies and subdependencies for repeatable builds.
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fazadbotan%2Fdocs.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fazadbotan%2Fdocs?ref=badge_large)
